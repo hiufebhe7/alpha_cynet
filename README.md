@@ -22,9 +22,9 @@ d #1{类型:文件 /下载的task任务路径/ } ###执行下载任务
 login.json 是一个用于登录验证的文件，它的内容通常是这样的。你需要在上传前创建它
 ```javascript
 {
-      "instance": "xmx.net", //登录的实例
-      "username": "asdsa2@outlook.com", //登录的用户名
-      "password": "isanc21" //登录的密码
+      "instance": "xxoo.net", //登录的实例
+      "username": "aabb@outlook.com", //登录的用户名
+      "password": "ccdd" //登录的密码
 }
 ```
 ### 第二步 执行上传task.json
