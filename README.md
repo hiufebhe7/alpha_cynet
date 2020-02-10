@@ -1,4 +1,4 @@
-##关于 cynet
+## 关于 cynet
 cynet是一个基于mastodon的网络类网盘协议。
 扩展了mastodon的 **上传 下载 分享链接** 功能
 #cynet 命令行使用手册
