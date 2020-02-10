@@ -18,7 +18,7 @@ d #1{类型:文件 /下载的task任务路径/ }
 # 使用范例
 ## 上传文件
 ### 第一步 生成上传task.json
-** gu login.json d:\donwload\ **  
+**gu login.json d:\donwload\**  
 login.json 是一个用于登录验证的文件，它的内容通常是这样的。你需要在上传前创建它
 ```javascript
 {
@@ -28,7 +28,7 @@ login.json 是一个用于登录验证的文件，它的内容通常是这样的
 }
 ```
 ### 第二步 执行上传task.json
-**u task.u.随机任务名称.json**
+**u task.u.随机任务名称.json**  
 这一步成功执行后会生成一个下载链接，通常是 ** cynet:?p=传输协议:i=实例名称:u=1f8b0800c72f3d5e02ffad98ef6a1d470cc55f25f873e33bd268a499bc4a294... **
 
 **到这一步用得到的 下载链接 就可以实现分享下载**
