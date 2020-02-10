@@ -18,7 +18,7 @@ d #1{类型:文件 /下载的task任务路径/ }
 # 使用范例
 ## 上传文件
 ### 第一步 生成上传task.json
-    **gu login.json d:\donwload\**
+**gu login.json d:\donwload\**  
 login.json 是一个用于登录验证的文件，它的内容通常是这样的。你需要在上传前创建它
 ```javascript
 {
