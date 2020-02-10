@@ -1,6 +1,7 @@
 ## 关于 cynet
 cynet是一个基于mastodon的网络类网盘协议。
 扩展了mastodon的 **上传 下载 分享链接** 功能
+**应用程序在 dist 文件夹下**
 # cynet 命令行使用手册
 ## 主要命令
 ```shell
